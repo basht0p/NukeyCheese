@@ -1,0 +1,9 @@
+# Configuration for directory tree and image generation
+max_leaf_per_branch: 5
+max_branch_depth: 4
+root_directory: 'X:\\'
+src_image_path: 'image.bmp'
+target_bytes: 100000000000
+minimum_images_per_directory: 10
+max_path_length: 250
+max_directories: 100
